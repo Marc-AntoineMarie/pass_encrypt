@@ -1,0 +1,19 @@
+# Fichiers d'environnement
+.env
+../config/.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers d'IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Cache PHP
+*.cache
